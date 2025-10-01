@@ -1,0 +1,7 @@
+[
+    {
+        "name": "QuotesToScrape",
+        "base_url": "http://quotes.toscrape.com/page/3/",
+        "article_selector": "div.quote"
+    }
+]
